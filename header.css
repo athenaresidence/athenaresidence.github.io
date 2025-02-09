@@ -12,6 +12,11 @@ body {
     overflow-x: hidden; /* Hindari scroll horizontal */
 }
 
+main {
+    padding: 20px;
+    text-align: center;
+  }
+  
 /* Header Styling */
 .header {
     position: fixed;
